@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Dugun Prep</string>
+    <string name="welcome_text">Welcome To</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="sign_in_using">Signin using</string>
+    <string name="terms_of_use">terms of use</string>
+    <string name="by_signing_in_you_are_agree_to_our">By signing in, you are agree to our terms of services and privacy policy</string>
+    <string name="create_an_account">Create an account?</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="login">Login</string>
+    <string name="crush_ready">     Get ready to crush that</string>
+    <string name="study">Let\'s do a study workout togather</string>
+    <string name="school_work">School Work</string>
+    <string name="schoolwork">Schoolwork!</string>
+    <string name="start">Start</string>
+    <string name="signin">Signin</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="quesation_text">How much Work do You have?</string>
+    <string name="play_audio">Play Audio</string>
+    <string name="tough_person">Get ready to work! you are a tough Person</string>
+    <string name="sprint">Sprint</string>
+    <string name="start_sprint">Start Sprint</string>
+    <string name="help">Want help from Professional Educators?</string>
+    <string name="no">No</string>
+    <string name="tutors_scored">All tutors have scored in the top 1% on the SAT</string>
+    <string name="tutoring_subject">Get online tutoring in any subject with Now Dugun Prep</string>
+    <string name="yes">Yes</string>
+
+</resources>
